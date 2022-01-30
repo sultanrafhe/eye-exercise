@@ -1,1 +1,1 @@
-# eye-exercise
+This project displays two eyes on screen which can change movement as the user moves mouse cursor. The eyes will look in the direction of mouse cursor as long as mouse cursor is in the browser window. In future this project can include better eye animation and a face to make it look better.
